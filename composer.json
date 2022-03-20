@@ -1,0 +1,15 @@
+{
+    "name": "ds/youtube",
+    "description": "YouTube API",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "DiamondSystems",
+            "email": "me@diamondsystems.org"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "alaouy/youtube": "*"
+    }
+}
